@@ -8,6 +8,9 @@ Cada pasta deve conter a sua atividade em questão. Neste exemplo existem 3 past
 - `A2-NOME`
 - `A3-NOME`
 
-Os nomes das atividades serão definidos no momento em que elas são divulgadas. Neste caso, a 1ª atividade é a do A-TOPSIS.
+Os nomes das atividades serão definidos no momento em que elas forem divulgadas. Neste caso, a 1ª atividade é a do A-TOPSIS.
+Obviamente, os códigos referentes às atividades ficam dentro da pasta.
 
-Siga a risca esse padrão para que suas atividades sejam corrigidas corretamente.
+Outra boa prática é a inclusão de um `.gitignore` para o projeto.
+
+Siga à risca esse padrão para que suas atividades sejam corrigidas corretamente.
